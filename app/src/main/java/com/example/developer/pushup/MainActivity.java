@@ -52,8 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestPushUp()
     {
-        int i = 4+4;
-        int j= 5+5;
-        int k= 6+6;
+        int gurer = 5;
     }
 }
